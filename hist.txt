@@ -1,0 +1,31 @@
+print("Winchell, we have a meeting tonight with chai and pizza!!")
+1
+3
+1+46
+4-8
+1+6*9
+type(1+3*76)
+type(7/5)
+type(2354543572648734572*536542834725648327)
+type(sdfhdg)
+type('hsadftdsgfsdf')
+type(true)
+true
+type(True)
+type(False)
+True==False
+False==False
+True==True
+"shamalee"
+type("thakur")
+"shamalee" + " " + "thakur"
+"shamalee"[3]
+input("What is your name?")
+type((1,3))
+type(('sham',1,7))
+type(('sham',1,7))[0]
+(('sham',1,7))[0]
+type([0,1,2])
+[1,5,7][2]
+%hist
+%history -f hist.txt
